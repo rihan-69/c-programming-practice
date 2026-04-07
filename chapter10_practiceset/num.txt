@@ -1,0 +1,4 @@
+2
+the double of the number you have entered is 4
+
+the double of the number you have entered is 4
